@@ -1,12 +1,3 @@
-/****************************************************/
-/*                                                  */
-/*   CS-454/654 Embedded Systems Development        */
-/*   Instructor: Renato Mancuso <rmancuso@bu.edu>   */
-/*   Boston University                              */
-/*                                                  */
-/*   Description: Lab5                              */
-/****************************************************/
-
 #include <p33Fxxxx.h>
 //do not change the order of the following 3 definitions
 #define FCY 12800000UL 
