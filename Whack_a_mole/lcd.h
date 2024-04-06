@@ -1,20 +1,3 @@
-/*
- * lcd.h
- *
- * Adapted for CS Embedded System Lab - FLEX UI board from:
- * http://sourceforge.net/projects/serialglcdlib/
- *
- * Adapted by: N. Edwards - 3 Aug, 2011 - U of Illinois
- * Modified by: Renato Mancuso (BU) - Feb 2019
- *
-
-SUMMARY:
-		A library for use with Sparkfuns Serial Graphic LCD 128x64 
-		(http://www.sparkfun.com/products/9351). Flashed with this 
-		firmware: (https://sourceforge.net/projects/serialglcd/). 
-		By a beginner, for beginners.
- */
-
 #ifndef __LCD_H
 #define __LCD_H
 
