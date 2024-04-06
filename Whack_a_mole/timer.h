@@ -1,13 +1,3 @@
-/****************************************************/
-/*                                                  */
-/*   CS-454/654 Embedded Systems Development        */
-/*   Instructor: Renato Mancuso <rmancuso@bu.edu>   */
-/*   Boston University                              */
-/*                                                  */
-/*   Description: lab3 timer functions header       */
-/*                                                  */
-/****************************************************/
-
 #include <p33Fxxxx.h>
 #include "types.h"
 
