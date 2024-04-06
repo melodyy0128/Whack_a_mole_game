@@ -1,13 +1,3 @@
-/****************************************************/
-/*                                                  */
-/*   CS-454/654 Embedded Systems Development        */
-/*   Instructor: Renato Mancuso <rmancuso@bu.edu>   */
-/*   Boston University                              */
-/*                                                  */
-/*   Description: lab3 UART2 functions header       */
-/*                                                  */
-/****************************************************/
-
 #ifndef __UART_H
 #define __UART_H
 
