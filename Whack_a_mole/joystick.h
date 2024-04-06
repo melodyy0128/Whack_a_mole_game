@@ -1,15 +1,3 @@
-/****************************************************/
-/*                                                  */
-/*   CS-454/654 Embedded Systems Development        */
-/*   Instructor: Renato Mancuso <rmancuso@bu.edu>   */
-/*   Boston University                              */
-/*                                                  */
-/*   Description: template file to implement basic  */
-/*                macros and functions to interface */
-/*                with the analog joystick.         */
-/*                                                  */
-/****************************************************/
-
 #ifndef __JOYSTICK_H
 #define __JOYSTICK_H
 
