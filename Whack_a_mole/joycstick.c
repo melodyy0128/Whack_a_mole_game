@@ -1,14 +1,3 @@
-/****************************************************/
-/*                                                  */
-/*   CS-454/654 Embedded Systems Development        */
-/*   Instructor: Renato Mancuso <rmancuso@bu.edu>   */
-/*   Boston University                              */
-/*                                                  */
-/*   Description: lab5   */
-/*                                                  */
-/****************************************************/
-
-
 #include <p33FJ256MC710.h>
 
 #include "joystick.h"
